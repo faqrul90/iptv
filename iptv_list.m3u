@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="",Astro AOD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="",Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="" group-title="https://static.wikia.nocookie.net/logopedia/images/d/da/611%281%29.png/revision/latest?cb=20200521080605",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest?cb=20200922170524" group-title="",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Prima
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="",Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Vaanavil (576p)
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="Tamil" tvg-logo="" group-title="",Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="",Astro 小太阳 (Astro Xiao Tai Yang)
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="",Astro 欢喜台 (Astro Hua Hee Dai)
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" group-title="",Berita RTM (1080p)
+https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="News",Berita RTM (1080p)
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="",Celestial Classic 天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="",Celestial Movies 天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="",CinemaWorld (576p)
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Hello (576p)
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-id="Kix.hk" tvg-name="Kix" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/mX1nnGy.png" group-title="Entertainment",Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="Kix.hk" tvg-name="Kix" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-name="National Geographic Wild Asia" tvg-country="MY" tvg-language="" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="",National Geographic Wild Asia
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Naura (576p)
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="",NTV 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen (Dewan Rakyat)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" group-title="",RTM Parlimen (Dewan Rakyat) (1080p)
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sports",RTM Sports
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim (360p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim (480p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim (1080p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOkey.my" tvg-name="TV Okey" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="",TV Okey (1080p)
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="",TV1 (1080p)
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="",TV2 (1080p)
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TVS (576p)
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/eIBkWc9.png" group-title="Music",7X Music
+http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="ANEWSJATTTVBhangraFlava.in" tvg-name="A NEWSJATT TV- Bhangra Flava" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="Music",A NEWSJATT TV- Bhangra Flava (720p)
+http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Aaj Tak (576p)
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AathavanTV.in" tvg-name="Aathavan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Entertainment",Aathavan TV (720p)
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="",ABP Ananda (720p)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://cdn.abplive.com/logo/ananda_600x60_bg.png" group-title="News",ABP Ananda (720p)
+https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",ABP Asmita (324p)
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita (324p)
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News (324p)
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1 tvg-id="ACNMusic.in" tvg-name="ACN Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="Music",ACN Music (1080p)
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="ACV.in" tvg-name="ACV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/FNBkLUA.jpg" group-title="",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVJukebox.in" tvg-name="ACV Jukebox" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/1L4YTlE.jpg" group-title="",ACV Jukebox (404p)
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVNews.in" tvg-name="ACV News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" group-title="News",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVUtsav.in" tvg-name="ACV Utsav" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="",ACV Utsav
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVUtsavPlus.in" tvg-name="ACV Utsav Plus" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" group-title="",ACV Utsav Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-name="Akaram Kidz" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Kids",Akaram Kidz (460p)
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://calcuttanews.tv/images/cnwotag.png" group-title="News",AKD Calcutta News (540p)
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
+#EXTINF:-1 tvg-id="AmarUjala.in" tvg-name="Amar Ujala" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Amar Ujala (360p)
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="Entertainment",Amrita TV (576p)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="Anjan.in" tvg-name="Anjan" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Anjan (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjab.in" tvg-name="Apna Punjab" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Apna Punjab (720p)
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArasanTV.in" tvg-name="Arasan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="" group-title="Entertainment",Arasan TV (1080p)
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AshrafiChannel.in" tvg-name="Ashrafi Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (576p)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (404p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsBangla.in" tvg-name="Asianet News Bangla" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/bangla_logo.png" group-title="News",Asianet News Bangla (360p)
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-name="Asianet News Kannada" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada (360p)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Assam Talks (240p)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Lifestyle",Ayush TV (720p)
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak (576p)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Bflix Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="Bollywood.in" tvg-name="Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bollywood (480p)
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.in" tvg-name="Bollywood Classic" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BollyWoodHD.in" tvg-name="BollyWood HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",BollyWood HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BollywoodNow.in" tvg-name="Bollywood Now" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="BollywoodTV.in" tvg-name="Bollywood TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="",Bollywood TV (720p)
+https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
+#EXTINF:-1 tvg-id="BollywoodTV.in" tvg-name="Bollywood TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="BOLLYWOODTV.in" tvg-name="BOLLYWOOD TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",BOLLYWOOD TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-name="Boogle Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="",Boogle Bollywood (400p)
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="BritCom.in" tvg-name="BritCom" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",BritCom (720p)
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:-1 tvg-id="CH8.in" tvg-name="CH_8" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",CH_8 (720p)
+https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
+#EXTINF:-1 tvg-id="Channel.in" tvg-name="Channel" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="",Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Channel Divya
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
+#EXTINF:-1 tvg-id="ChannelWin.in" tvg-name="Channel Win" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Channel Win (360p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelY.in" tvg-name="Channel Y" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Channel Y (720p)
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineVoice.in" tvg-name="Cine Voice" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice (1080p)
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 tvg-id="CineVoice.in" tvg-name="Cine Voice" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="",Cine Voice (1080p)
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="CNBC Awaaz" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Business",CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="CNBC Awaaz" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Business",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="CNBCAwaazSD.in" tvg-name="CNBC Awaaz SD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",CNBC Awaaz SD
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-name="CNBC Bajar" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/cnbc_bajar_in.png" group-title="News",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV18" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18.us" tvg-name="CNBC TV18" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="ColourBangla.in" tvg-name="Colour Bangla" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Colour Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/9HfMVKs.jpg" group-title="Entertainment",DD Malayalam (576p)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="Entertainment",DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",DD National (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",DD News (576p)
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-country="IN" tvg-language="" tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
